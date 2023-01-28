@@ -4,12 +4,11 @@ To develop a website to display details about the places around my house.
 
 # Design Steps:
 ## Step 1
-
+create a HTML file and add the images using img tag
 ## Step 2
-
+create a HTML file and add the images using img tag
 ## Step 3
-
-
+commit the changes using the command and push to github respositary
 # Code:
 ```
 <!DOCTYPE html>
@@ -188,4 +187,4 @@ The uses of Washerman's Lake in Ariyalur District are
 ![model](5.png)
 ![model](6.png)
 # Result:
-
+By this program we got the expected output.
